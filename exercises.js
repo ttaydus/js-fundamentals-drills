@@ -344,12 +344,9 @@ var getObjectKeys = function(obj){
  *
  * @param {Object}
  * @return {Array}
- */str+=1;
-console.log(str);
+ */
 
-var getObjectValues = function(obj){
-  
-}
+var getObjectValues = function(){};
 
 /* #makeObject
  *
@@ -361,9 +358,7 @@ var getObjectValues = function(obj){
  */
 
 
-var makeObject = function(key, value){
-
-}
+var makeObject = function(){};
 
 
 /* #makeObjectReverse
