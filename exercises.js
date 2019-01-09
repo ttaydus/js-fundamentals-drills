@@ -6,11 +6,7 @@
  * @return {Array} // [2,4,6]
  */
 var doubleArray = function(arr){
-  var doubled = [];
-  for(var i = 0; i<arr.length; i++){
-    doubled.push(arr[i]*2);
-  }
-  return doubled;
+
 }
 
 /* #sumArrays
@@ -22,12 +18,7 @@ var doubleArray = function(arr){
  * @return {Bool}
  */
 var sumArrays = function(arr1,arr2){
-  var sum = 0;
-  for( var i=0; i<arr1.length; i++){
-    sum += arr1[i]; 
-    sum += arr2[i];
-  }
-  return sum;
+
 }
 
 /* #stringCount
