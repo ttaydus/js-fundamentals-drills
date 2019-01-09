@@ -545,7 +545,7 @@ var charCountMap = function(arr){
  * @param {String}
  * @return {Bool}
  */
-var frequencyMap = function(){
+var frequencyMap = function(arr){
   var obj = {};
 
 }
